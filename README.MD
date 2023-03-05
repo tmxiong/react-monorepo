@@ -25,7 +25,7 @@ Monorepo(monolithic repository) 是管理项目代码的一个方式，指在一
     ```
 * 安装依赖
   > 因为是monorepo项目, 所以必须使用pnpm    
-  > pnpm使用: `https://github.com/pnpm/pnpm`
+  > pnpm使用: `https://pnpm.io/zh/installation`
   * 首次安装:
   ```
   pnpm i 
